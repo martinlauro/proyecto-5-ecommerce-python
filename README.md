@@ -21,4 +21,4 @@ sin base de datos SQL.
 - Distribución por país
 
 ## Autor
-Martin Lauro — LinkedIn https://www.linkedin.com/in/martin-lauro/
+Martin Lauro — [LinkedIn](https://www.linkedin.com/in/martin-lauro/)
